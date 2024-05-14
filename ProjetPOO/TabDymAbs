@@ -1,0 +1,8 @@
+public abstract class TabDymAbs{
+
+
+
+    public abstract void SetValue(int val);
+    public abstract void SetDim(int i, int value);
+      
+}
